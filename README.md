@@ -1,3 +1,4 @@
 # Mobile-Driver-Monitoring-and-Safety-System
-Pakistan's first safety device to mount in a car to make drivers drive for longer distances without the worry of sleeping and saving their precious lives.
-We want every Pakistani automobile to have this device as a builtin feature.
+## Benefits
+- Using machine learning techniques we believe that this technology have the potential to have an positve and impressive impact on the Pakistan's automobile industry.
+- With the server interfacing an employer would not need worry about monitoring driver behavioural analysis whihch this device do in realtime. 
